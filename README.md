@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=wJE5tYkGvD8
 
+https://raw.githubusercontent.com/RodrigoMvs123/3hrs-to-code-ClassPass---take-PAYMENTS-MANAGE-BOOKINGS-Next.js-Wix-SDK-super-simple-/main/README.md
+
+
+
 Next.js - https://nodejs.org/en 
 https://www.mapbox.com/ 
 https://www.wix.com/
